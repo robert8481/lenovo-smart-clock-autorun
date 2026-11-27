@@ -14,3 +14,5 @@ The delay gives the system time to finish starting before the clock app opens. I
 This is an autorun workaround, not a replacement Home/launcher app. The IoT launcher remains installed and may still appear briefly during startup.
 Keep a firmware backup and avoid disabling the original launcher until you have tested the setup through a full reboot.
 This module was tested with the stock app component com.android.deskclock/.DeskClock on my rooted Lenovo Smart Clock. Compatibility with other firmware versions and clock apps may vary.
+
+# GPT Luna 6 was used in the development of this script
