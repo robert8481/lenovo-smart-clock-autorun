@@ -1,0 +1,6 @@
+id=deskclockboot
+name=DeskClock Boot
+version=1.0
+versionCode=1
+author=local
+description=Lock rotation and launch the stock DeskClock after boot
